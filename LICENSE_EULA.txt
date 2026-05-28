@@ -1,0 +1,48 @@
+END USER LICENSE AGREEMENT 
+
+Copyright © 2026 Aarhus Universitet Department of Civil and Architectural Engineering. 
+
+1. ACCEPTANCE OF TERMS 
+By installing, copying, or using this software, you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the software. 
+
+2. LICENSE GRANT 
+The software is provided free of charge ("freeware"). You are granted a non-exclusive, non-transferable, revocable license to: 
+- use the software for any purpose, including research, education, and professional practice 
+- copy and redistribute the software in its original, un-modified form 
+
+3. RESTRICTIONS 
+You may NOT: 
+- modify, adapt, or create derivative works based on the software 
+- reverse engineer, decompile, or disassemble the soft-ware, or attempt to derive its source code 
+- redistribute modified versions of the software 
+- remove or alter any copyright or license notices 
+
+Use of the software is permitted only through its intended interfaces and functionality. 
+
+4. INTEGRATION AND USE 
+The software may be used as part of workflows, including integration with other software systems, provided that the software itself is not modified and remains in its original form. 
+
+5. DISCLAIMER OF WARRANTY
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular pur-pose, and non-infringement. The authors make no guar-antees regarding the correctness, accuracy, or reliability of the software or its output. 
+
+6. LIMITATION OF LIABILITY
+In no event shall the authors or copyright holders be liable for any claim, damages or other liability, including but not limited to direct, indirect, incidental, special, or conse-quential damages, arising from or in connection with the software or the use or other dealings in the software. 
+
+7. PROFESSIONAL DISCLAIMER 
+This software is intended as a tool to assist in analysis and design. It is not a substitute for professional judgment. 
+
+The user is solely responsible for: 
+- verifying all results produced by the software 
+- ensuring compliance with applicable standards, regula-tions, and best practices 
+- all decisions made based on the software output 
+
+8. TERMINATION 
+This license is automatically terminated if you fail to com-ply with its terms. Upon termination, you must cease all use and distribution of the software. 
+
+9. GOVERNING LAW 
+This Agreement shall be governed by and interpreted in accordance with the laws of Denmark. 
+
+--- 
+
+By using the software, you acknowledge that you have read and understood this Agreement and agree to be bound by its terms.
+
